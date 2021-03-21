@@ -1,1 +1,1 @@
-# team-25
+# the ideas:
