@@ -19,7 +19,7 @@
 -----------------------------------------------
 ### Figma link:
     attached
-
+https://www.figma.com/file/GZfkOmLLzyKfQKE1znHvKC/Wireframing-in-Figma?node-id=120%3A37
 -----------------------------------------------
 # the ideas:
 provide information about worldwide climate change issues
