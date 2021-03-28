@@ -31,4 +31,3 @@ New To-do list
 1. finish editing wireframe for 
     homepage
     3 other page
-3. write code for website
