@@ -8,7 +8,7 @@
 ### Team member:
     1. Morgan "desginer"
     2. Scott
-    3. f
+    3. Lizbeth
     4. f
 -----------------------------------------------
  ### Skills:
