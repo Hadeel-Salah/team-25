@@ -1,0 +1,34 @@
+<!doctype html>
+<!-- greet.html                     Morgan Swindall  -->
+<!-- Web page that displays a personalized greeting. -->
+<!-- =============================================== -->
+
+<html>
+    <head>
+        <title> Greetings </title>
+    </head>
+    
+    <body>
+        <h2> Greetings</h2>
+        <p>
+            Enter your name: <input type="text" id="nameBox" size=12 value=" ">
+        </p>
+        <input type="button" value="Click for Greeting"
+        onclick="document.getElementById('outpuDiv').innerHTML='Hello' + document.getElementyById('nameBox').value + ', welcome to my page.<br>Do you mind if I call you' + document.getElementById('nameBox').value + '?';">
+        <hr>
+        <div id="outputDiv"></div>
+        
+        <h2>Form Letter Generator</h2>
+        <p>
+            Enter recipient's name:
+                <input type="text" id="recipientBox" size=20 value="Buddy"> <br>
+            Enter activity:
+                <input type="text" id="activityBox" size=20 value="my birthday"> <br>
+            Enter date: <input type="text" id="dateBox" size=20 value="February 29">
+        </p>
+        <input type="button" value="Click for Form Letter"
+               onclick="document.getElementById('outputDiv').innerHTML='<p>Dear ' + document.getElementById(recipientBox').value + '</p> <p>Have you heard about ' + document.getElementById('activityBox').value + 'which is coming up on ' + document.getElementById('dateBox').value + '? It would mean a lot to me if you could make it to ' + document.getElementById('activityBox').value + '. Hopefully, I\'ll see you ' + document.getElementById('dateBox').value + '.</p>' + '<p style=\'text-align:right\'>Your friend,<br> Dave</p>';">
+        <hr>
+        <div id="outputDiv"></div> 
+    </body>
+</html>
