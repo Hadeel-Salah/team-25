@@ -3,18 +3,18 @@
 -----------------------------------------------
 ### Pages:
       1. Page one called "Home page"
-      2. Page two called ""
+      2. Page two called "Climate Change"
+      3. Page three called "Blog Page"
+      4. Page four called "Greenwashing?"
 -----------------------------------------------
 ### Team member:
     1. Morgan "desginer"
-    2. Scott
-    3. Lizbeth
-    4. f
+    2. Scott "content creator"
+    3. Lizbeth "content creator"
 -----------------------------------------------
  ### Skills:
     1. html
     2. css
-    3. bootstrap
 
 -----------------------------------------------
 ### Figma link:
